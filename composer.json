@@ -1,5 +1,5 @@
 {
-    "name": "febrianandalubis/belajar-php-composer",
+    "name": "febrianandalubis/belajar-php-composer-hello",
     "description": "Library Composer",
     "type": "library",
     "autoload": {
